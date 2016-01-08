@@ -1,5 +1,7 @@
 # angularfire-slack
 
+Slack clone using Angular and Firebase.
+
 https://tc-fireslack.firebaseapp.com
 
 ## Build & development
